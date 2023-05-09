@@ -1,6 +1,7 @@
-# Software Architecture and Design Class
+# Software Architecture and Design Class       
+Graduate Level course designed to teach students about Software Architecture and Design.
 
-## Support App Development
+## Support App Project
 ### Brief Project Statement   
 Our project for this semester is to design and develop a software app to provide
 support to incoming freshmen for CSE 3421 and incoming graduate students for
